@@ -1,0 +1,3 @@
+<resources>
+    <string name="service_description">AutoFiller fills forms automatically from a CSV file. Turn this on only when you use AutoFiller.</string>
+</resources>
